@@ -46,4 +46,4 @@
 
 |Session #|Title|Moderator|Original Paper|Presentation|ETC|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1|GCN Concept and NGCF|코그|[GCN](https://arxiv.org/abs/1609.02907), [NGCF](https://arxiv.org/abs/1905.08108)|[발표자료](https://github.com/boostcamp3-recsys4/paper-review/GNN/GCN_NGCF.pdf)|[코그 노션](https://www.notion.so/Graph-Convolutional-Network-c99f60c57f964e2197fff1ed8a96a85a)|
+|1|GCN Concept and NGCF|코그|[Semi-Supervised Classification with GCN](https://arxiv.org/abs/1609.02907) <br> [Neural Graph Collaborative Filtering](https://arxiv.org/abs/1905.08108)|[발표자료](https://github.com/boostcamp3-recsys4/paper-review/blob/main/GNN/GCN_NGCF.pdf)|[코그 노션](https://www.notion.so/Graph-Convolutional-Network-c99f60c57f964e2197fff1ed8a96a85a)|
