@@ -50,3 +50,4 @@
 |2|Graph, Convolution with Fourier|렉사|[Semi-Supervised Classification with GCN](https://arxiv.org/abs/1609.02907) <br> |[발표자료](https://github.com/boostcamp3-recsys4/paper-review/blob/main/Graph/Graph%20Convolutional%20Network%20-%20Lexa%200321.pdf)||
 |3|BERT4Rec|필|[BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/abs/1904.06690) <br> |[발표자료](https://www.notion.so/BERT4Rec-fc3b0ca815d54a9d879437159a987707)||
 |4|VASP|폴라|[Deep Variational Autoencoder with Shallow Parallel Path for Top-N Recommendation (VASP)](https://arxiv.org/abs/2102.05774) <br> |[발표자료](https://github.com/boostcamp3-recsys4/paper-review/blob/main/VAE/VASP_presentation.pdf)||
+|5|EASE|선비|[Embarrassingly Shallow Autoencoders for Sparse Data](https://arxiv.org/abs/1905.03375) <br> |[발표자료](https://github.com/boostcamp3-recsys4/paper-review/blob/main/AE/EASE.pptx)||
